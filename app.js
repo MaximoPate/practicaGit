@@ -66,7 +66,7 @@ const fetchNoAsAService = async () => {
 
     return {
         phrase: normalizePhrase(phrase),
-        source: 'by jeesssik'
+        source: 'by Feli, Maxi and Mati'
     };
 };
 
